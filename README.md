@@ -1,2 +1,2 @@
 # SparseLinear
-$$\sqrt{ax+by=1}$$
+$\sqrt{ax+by=1}$
